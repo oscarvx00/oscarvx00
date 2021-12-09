@@ -15,17 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Languages and technologies
+## Languages and technologies
 
-###Main ones
+### Main ones
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
-###Secondaries
+### Secondaries
 
-###Just a little knowledge
+### Just a little knowledge
 
-#Some stats
+## Some stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscarvx00)](https://github.com/anuraghazra/github-readme-stats)
